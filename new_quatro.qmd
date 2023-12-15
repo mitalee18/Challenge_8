@@ -1,0 +1,18 @@
+---
+
+  title: "Challenge_8"
+author: "Mitalee Minde"
+description: ""
+date: "12/15/2023"
+format:
+  html:
+  df-print: paged
+css: "styles.css"
+embed-resources: true
+self-contained-math: true
+categories:
+  - weekly_challenges
+- challenge_8
+---
+
+Last movie I watch in the theater was Barbie
